@@ -1,0 +1,30 @@
+{
+  "name": "react-graph",
+  "version": "1.0.0",
+  "description": "A practice app for react, express and graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chalaurel/react-express-graphql.git"
+  },
+  "keywords": [
+    "reactjs",
+    "express",
+    "graphql"
+  ],
+  "author": "Charity May Laurel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chalaurel/react-express-graphql.git"
+  },
+  "homepage": "https://github.com/chalaurel/react-express-graphql#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "lodash": "^4.17.11"
+  }
+}
