@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "23",
-      "firstName": "Charity",
+      "firstName": "Charity May",
       "age": 30,
       "companyId": "1"
     },
@@ -11,17 +11,6 @@
       "firstName": "Jacky",
       "age": 21,
       "companyId": "1"
-    },
-    {
-      "id": "25",
-      "firstName": "Grace",
-      "age": 25,
-      "companyId": "2"
-    },
-    {
-      "firstName": "Stephen",
-      "age": 25,
-      "id": "ZkyyqgC"
     }
   ],
   "companies": [
